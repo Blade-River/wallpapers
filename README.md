@@ -1,1 +1,2 @@
 # wallpapers
+![freedom](freedom.png)
