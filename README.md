@@ -10,7 +10,7 @@
 ![wallhaven](wallpaper/wallhaven-vpyg25.png)
 ![wallhaven](wallpaper/wallhaven-yq7ywg.png)
 ![wallhaven](wallpaper/wallpaper2.png)
-![wallhaven](wallpaper25.png)
+![wallhaven](wallpaper/wallpaper25.png)
 ![wallhaven](wallpaper/wallpaper26.png)
 ![RDT_20260326_1749214146523327860952665.jpg](wallpaper/RDT_20260326_1749214146523327860952665.jpg)
 ![a2117dc267fbb169e38be77c7af44027.png](wallpaper/a2117dc267fbb169e38be77c7af44027.png)
