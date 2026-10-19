@@ -181,3 +181,5 @@
 ![wallpaper31.png](wallpaper/wallhaven-g8636dc.png)
 ![wallpaper31.png](wallpaper/wallhaven-vqxgql.png)
 ![wallpaper31.png](wallpaper/wallhaven-we6zrr.jpg)
+![gojo-v7.png](wallpaper/gojo-v7.png)
+![gojo-v7-purple.png](wallpaper/gojo-v7-purple.png)
